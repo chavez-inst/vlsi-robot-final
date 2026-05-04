@@ -1,0 +1,16 @@
+# Ignorar carpetas de compilación de Quartus
+db/
+incremental_db/
+output_files/
+simulation/
+timing/
+
+# Ignorar reportes y temporales
+*.rpt
+*.summary
+*.done
+*.jdi
+*.pin
+*.qws
+*.bak
+*.smsg
