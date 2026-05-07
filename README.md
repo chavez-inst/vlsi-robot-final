@@ -6,7 +6,7 @@
 ## Integrantes
 * Chávez López B. Alejandro
 * Chávez García Isaac
-* De La Cruz Eduardo Miranda
+* Miranda De La Cruz Eduardo 
 * Saldivar Hernández Brian
 
 ---
